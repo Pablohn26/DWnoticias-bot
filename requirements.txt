@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2022.12.7
 cffi==1.13.2
 chardet==3.0.4
-cryptography==3.3.2
+cryptography==39.0.1
 ffmpy==0.2.2
 future==0.18.2
 idna==2.8
