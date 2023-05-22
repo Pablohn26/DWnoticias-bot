@@ -16,7 +16,7 @@ pyasn1==0.4.8
 pycparser==2.19
 pyTelegramBotAPI==3.6.6
 python-telegram-bot==12.2.0
-requests==2.22.0
+requests==2.31.0
 rsa==4.7
 six==1.13.0
 soupsieve==1.9.5
